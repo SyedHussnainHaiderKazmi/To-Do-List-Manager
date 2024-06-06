@@ -2,11 +2,11 @@
 
 ## Overview
 
-This is a simple command-line To-Do List Manager application implemented in Python. It allows users to add tasks, view tasks, mark tasks as completed, delete tasks, and save tasks to a file.
+This is a straightforward command-line To-Do List Manager application built in Python. It enables users to add tasks, view them, mark tasks as completed, delete tasks, and save tasks to a file.
 
 ## Features
 
-- Add tasks with a name, due date, priority, and category.
+- Add tasks with a title, due date, priority level, and category.
 - View all tasks.
 - Mark tasks as completed.
 - Delete tasks.
@@ -32,5 +32,5 @@ This is a simple command-line To-Do List Manager application implemented in Pyth
 ## Future Improvements
 
 - Add a feature to edit existing tasks.
-- Implement a graphical user interface (GUI) for better user experience.
-- Add support for recurring tasks.
+- Create a graphical user interface (GUI) to enhance user experience.
+- Include support for recurring tasks.
