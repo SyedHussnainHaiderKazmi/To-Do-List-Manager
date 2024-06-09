@@ -21,13 +21,15 @@ This is a straightforward command-line To-Do List Manager application built in P
 
 1. Clone the repository.
 2. Navigate to the project directory.
-3. Run `python main.py` to start the application.
-4. Follow the on-screen instructions to manage your tasks.
+3. Open VS Code and open the terminal (Ctrl+`).
+4. Run `python main.py` in the VS Code terminal to start the application.
+5. Follow the on-screen instructions to manage your tasks.
 
 ## How to Run Tests
 
 1. Navigate to the project directory.
-2. Run `python -m unittest discover` to execute all tests.
+2. Open VS Code and open the terminal (Ctrl+`).
+3. Run `python -m unittest discover` to execute all tests.
 
 ## Future Improvements
 
